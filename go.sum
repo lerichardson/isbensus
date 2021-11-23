@@ -1,0 +1,6 @@
+github.com/austintraver/loading v0.0.0-20210630015456-fe00be822f27 h1:yRtcNWfgXCIPAcB7Z7jUdhIFxcoKtCrFy6Nm/AqB+Io=
+github.com/austintraver/loading v0.0.0-20210630015456-fe00be822f27/go.mod h1:YAWrVXO1ChVAbc3jVC+GyhSJaLfn1K/eI9zmlnm9xkI=
+github.com/cbluth/randomart v0.0.0-20200825235236-8fe6fb74477c h1:USnsh77YxtQ1lFJw/gVXREA55xOBfHCEacYHyH6Rw0w=
+github.com/cbluth/randomart v0.0.0-20200825235236-8fe6fb74477c/go.mod h1:xpPpl8GKe8ajZPykVEHaH7My19LLUVmMa8W5oh2n5OI=
+github.com/logrusorgru/aurora v2.0.3+incompatible h1:tOpm7WcpBTn4fjmVfgpQq0EfczGlG91VSDkswnjF5A8=
+github.com/logrusorgru/aurora v2.0.3+incompatible/go.mod h1:7rIyQOR62GCctdiQpZ/zOJlFyk6y+94wXzv6RNZgaR4=
